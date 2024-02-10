@@ -1,0 +1,14 @@
+.number1 {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.number2 {
+    background-color: yellow;
+}
+
+.number1, .number2{
+    font-size: 40px;
+    font-family: Helvetica, 'Times New Roman', 'Times New Roman', Times, serif;
+}
